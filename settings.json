@@ -1,0 +1,25 @@
+{
+    "editor.fontSize": 18,
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[css]": {
+        "editor.tabSize": 4
+},
+"[html]": {
+    "editor.tabSize": 4
+},
+"[json]": {
+    "editor.tabSize": 2
+},
+"[javascriptreact]": {
+    "editor.tabSize": 2
+},
+"[typescriptreact]": {
+    "editor.tabSize": 2
+  },
+  "editor.wordWrap": "on"
+}
